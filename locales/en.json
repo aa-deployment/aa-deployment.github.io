@@ -708,7 +708,7 @@
   "SHARE_LINK_COPIED": "URL to share has been copied to your clipboard",
   "IMPORT": "Import",
   "APP_IMPORT_TO_LIBRARY_CONFIRMATION": "If you import this app or app enhancement to your own private library, it will stay with you forever, even if it will be removed by the original provider.",
-  "APP_IMPORT_TO_LIBRARY_SUCCESS": "App was imported to your library",
+  "APP_IMPORT_TO_LIBRARY_SUCCESS": "App was imported to <a href=\"/my/apps\">your library</a>",
   "COMPATIBILITY_UNKNOWN_1": "Compatibility unknown",
   "PRIVATE_APPS": "Private apps",
   "PUBLIC_APPS": "Public apps",
@@ -771,5 +771,6 @@
   "CLOSE": "Close",
   "SUBSCRIPTION_CANCEL_CONFIRMATION": "Are you sure you want to cancel this subscription?",
   "YES_CANCEL": "Yes, cancel",
-  "PAYMENT_METHODS": "Payment methods"
+  "PAYMENT_METHODS": "Payment methods",
+  "APP_CATEGORY_EDIT_WARNING": "If app was modified in any way (is a derivative), make sure you have chosen \"Enhanced apps\" or \"Enhanced games\" category and app is complaint with <a href=\"https://rtfm.dbservices.to/#/user-apps-publishing/rules\">publishing rules</a>"
 }
