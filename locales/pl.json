@@ -592,7 +592,6 @@
     "FREE_DEVELOPER_SIDELOADING_DESC": "Możesz pobrać aplikacje ze sklepu {{brand}}, korzystając z linków (a nie przycisków instalacji) i instalując je ręcznie za pomocą PC i oprogramowania takiego jak <a href=\"{{altStoreLink}}\" target=\"_blank\">AltStore</a> lub <a href=\"{{sideloadlyLink}}\" target=\"_blank\">Sideloadly</a>.",
     "THIS_FEATURE_IS_PART_OF_PLUS": "Ta funkcja jest częścią {{brand}} <span class=\"g-pro\">PLUS</span>",
     "SIDELOADING_OPTIONS_DESCRIPTION": "Istnieje wiele metod umożliwiających boczną instalację, na które możesz sobie pozwolić. Każda metoda ma swoje różne zalety i ograniczenia w różnych cenach. <b>Wszystko oprócz oficjalnej bocznej instalacji przy użyciu konta dewelopera</b> jest uważane przez Apple za naruszenie warunków korzystania z usługi, co może spowodować cofnięcie certyfikatu bocznego instalowania lub zablokowanie aplikacji na Twoim urządzeniu, co skutkuje niemożnością korzystania z aplikacji. Będziesz musiał je usunąć i zainstalować ręcznie.<br/><br/>\nAby przełączyć się na wybraną metodę bocznego instalowania, wykonaj niezbędne kroki, a następnie usuń i zainstaluj (nie tylko ponownie zainstaluj) swoje aplikacje, aby zostały zainstalowane przy użyciu nowej metody bocznego instalowania.",
-    "3RD_PARTY_SIDELOADING_PROGRAM": "Jeśli sprzedajesz certyfikaty i chcesz, aby Twoja witryna została tutaj wymieniona, dołącz do naszego programu <a href=\"{{href}}\">{{brand}} + certyfikat</a>.",
     "BUY_PLUS": "Kup {{brand}} PLUS",
     "PLEASE_WAIT_N_SECONDS_TILL_LINK": "Proszę poczekać <strong>{{seconds}}</strong> sekundy, aż pojawi się link",
     "LINK_IS_READY_CONTINUE": "\"Twój link jest gotowy! Kliknij lub dotknij tutaj, aby kontynuować.\"",
@@ -698,5 +697,8 @@
     "SHARE": "Udostępnij",
     "PRIVATE": "Prywatny",
     "DOWNLOAD": "\"Pobrania\"",
-    "COMPATIBILITY_UNKNOWN_1": "\"? Nieznana kompatybilność\""
+    "COMPATIBILITY_UNKNOWN_1": "\"? Nieznana kompatybilność\"",
+    "GO_BACK": "Wróć",
+    "SUBSCRIPTION_CANCEL_CONFIRMATION": "\"Czy na pewno chcesz anulować subskrypcję PLUS?\"",
+    "APP_INSTALLATIONS": "Instalacja aplikacji"
 }

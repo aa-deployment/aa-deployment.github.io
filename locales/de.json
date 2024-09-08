@@ -591,7 +591,6 @@
     "FREE_DEVELOPER_SIDELOADING_DESC": "Sie können Apps von {{brand}} einfach herunterladen, indem Sie den Links folgen (nicht durch Anklicken der Installationsbuttons) und diese manuell über PC und Software wie <a href=\"{{altStoreLink}}\" target=\"_blank\">AltStore</a> oder <a href=\"{{sideloadlyLink}}\" target=\"_blank\">Sideloadly</a> installieren.",
     "THIS_FEATURE_IS_PART_OF_PLUS": "\"Diese Funktion gehört zu {{brand}} <span class=\"g-pro\">PLUS</span>\"",
     "SIDELOADING_OPTIONS_DESCRIPTION": "App-Installationen auf {{brand}} sind überall auf der Welt verfügbar, nicht nur in der Europäischen Union. <strong>Die Nutzung von {{brand}} ist mit bis zu 10 App-Installationen pro Woche kostenlos.</strong> Aufgrund von Einschränkungen, die Apple Inc. in seinem Betriebssystem festgelegt hat, <strong> müssen Sie jedoch an Apple zahlen Inc., um Apps installieren zu können (Sie können diese Zahlung später zurückerstatten).</strong><br/>Bis unsere Interoperabilitätsanfrage erfüllt wird, müssen Sie Apple Inc. bezahlen, indem Sie deren Entwicklerkonto kaufen, auch in der Europäischen Union. Wenn Sie aus einem anderen Land kommen, müssen Sie in jedem Fall bezahlen.<br/><br/>\n\nEs sind andere App-Installationsmethoden verfügbar, aber möglicherweise werden nicht alle Funktionen unterstützt und solche Apps funktionieren möglicherweise instabil.<br/><br/>\n\nUm App-Installationen zu ermöglichen, führen Sie bitte die erforderlichen Schritte der gewählten Installationsmethode aus.<br/><br/>\n\nWenn Sie von einer Installationsmethode zu einer anderen wechseln, müssen Sie alle Ihre Apps entfernen und erneut installieren.",
-    "3RD_PARTY_SIDELOADING_PROGRAM": "Wenn Sie Zertifikate verkaufen und möchten, dass Ihre Website hier aufgeführt wird, nehmen Sie bitte an unserem <a href=\"{{href}}\">{{brand}} + Zertifikat</a>-Programm teil.",
     "BUY_PLUS": "\"Buy {{brand}} PLUS\" => \"Kaufe {{brand}} PLUS\"",
     "PLEASE_WAIT_N_SECONDS_TILL_LINK": "Bitte warten Sie <strong>{{Sekunden}}</strong> Sekunden, bis der Link erscheint.",
     "LINK_IS_READY_CONTINUE": "\"Dein Link ist bereit! Klicke oder tippe hier, um fortzufahren.\"",
@@ -697,5 +696,8 @@
     "TOS": "Nutzungsbedingungen",
     "PRIVATE": "Privat",
     "DOWNLOAD": "Herunterladen",
-    "COMPATIBILITY_UNKNOWN_1": "Kompatibilität unbekannt"
+    "COMPATIBILITY_UNKNOWN_1": "Kompatibilität unbekannt",
+    "GO_BACK": "\"Zurück\"",
+    "APP_INSTALLATIONS": "\"App-Installation\"",
+    "SUBSCRIPTION_CANCEL_CONFIRMATION": "\"Sind Sie sicher, dass Sie das PLUS-Abonnement kündigen möchten?\""
 }
