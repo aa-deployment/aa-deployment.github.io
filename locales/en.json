@@ -772,5 +772,6 @@
     "YES_CANCEL": "Yes, cancel",
     "PAYMENT_METHODS": "Payment methods",
     "3RD_PARTY_SIDELOADING_PROGRAM": "If you are selling certificates and want your website to be listed here, please join our <a href=\"{{href}}\">{{brand}} + certificate</a> program",
-    "PREMIUM_SUPPORT_VIA_HELPDESK": "Support via <a href=\"{{href}}\">helpdesk</a>"
+    "PREMIUM_SUPPORT_VIA_HELPDESK": "Support via <a href=\"{{href}}\">helpdesk</a>",
+    "APP_CATEGORY_EDIT_WARNING": "If app was modified in any way, make sure to select \"Enhanced apps/games\" category"
 }

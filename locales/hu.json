@@ -19,5 +19,6 @@
     "NOT_COMPATIBLE_WITH_DEVICE": "&#10060; Nem kompatibilis az Ön készülékével",
     "COMPATIBILITY_UNKNOWN": "? Kompatibilitás ismeretlen",
     "ARCHIVED_SUMMARY": "Ez az oldal csak az archivált linkeket menti. Lehet, hogy néhányan már nem is létezik…",
-    "TWEAKED_VERSION_NOTICE_TITLE": "Értesítés a módosított verzióról"
+    "TWEAKED_VERSION_NOTICE_TITLE": "Értesítés a módosított verzióról",
+    "COMPATIBILITY_UNKNOWN_1": "? Kompatibilitás ismeretlen"
 }
