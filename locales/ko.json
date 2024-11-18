@@ -370,7 +370,7 @@
     "PRO_REVOKED_DESC_1": "Apple에 의해 철회된 모든 PRO는 바우처 활성화 후 365일 이내인 경우 수동으로 재활성화를 트리거할 수 있습니다. 이는 다음 기기에 적용됩니다: iPhone, iPad, iPod Touch. 활성화 후 365일이 지난 후 PRO가 철회된 경우에는 새로운 PRO 바우처만 얻을 수 있습니다.",
     "MYAPPSTORE_DESC": "브랜드로 애착하는 개인 앱을 {{brand}}에 저장하세요. 파일 호스팅과 AppStore에서 일어나는 삭제 같은 일은 더 이상 없습니다. 사용자의 모든 기기에서 하나의 이메일로 앱을 공유할 수 있습니다.",
     "STEVE_JOBS_QUOTE": "“아직 찾지 못했다면 계속 찾아봐야 합니다. 타협하지 마세요. 마음의 모든 문제와 마찬가지로, 그것을 찾을 때 알게 될 것입니다. 그리고 어떤 훌륭한 관계와 같이, 시간이 지남에 따라 점점 더 좋아집니다.”\n<br />\n- 스티브 잡스",
-    "REQUEST_FOR_APP": "앱에 대한 요청",
+    "REQUEST_FOR_APP": "앱 요청하기",
     "UPLOAD_IPA_FILES": "'IPA 파일(들) 업로드'",
     "FILES_SELECTED": "파일 선택됨: {{count}}",
     "UPLOAD_FAILED_WITH_REASON": "업로드 실패: {{reason}}",
