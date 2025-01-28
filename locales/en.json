@@ -410,7 +410,7 @@
   "PLUS_SUBSCRIPTION_CANCELED": "Your PLUS subscription was cancelled",
   "DEVELOPER_APPLE_ID": "Developer Apple ID",
   "CONFIGURE_PLUS_ACCOUNT": "Configure your account",
-  "PLUS_ACCOUNT_CONFIGURED": "Your PLUS account was configured",
+  "PLUS_ACCOUNT_CONFIGURED": "Your Apple Developer account was configured",
   "ENTER_OTP": "Enter code that was sent to your device. If your developer account is not your primary Apple ID, open Settings-Contacts-Accounts and add your developer account, so you will be able to receive one-time codes to your device",
   "STATUS": "Status",
   "RECONFIGURE": "Reconfigure",
@@ -761,8 +761,8 @@
   "YES_REFUND": "Yes, refund",
   "OFFICIAL_APP_DOWNLOAD_PAGE_TITLE": "Official app download",
   "OFFICIAL_APP_DOWNLOAD_PENDING_HEADING": "Preparing installable app for downloading, please wait",
-  "OFFICIAL_APP_DOWNLOAD_PENDING_WARNING": "Please stay here till your download is ready",
+  "OFFICIAL_APP_DOWNLOAD_PENDING_WARNING": "Please stay here till your download is ready. Make sure that your device is online and unlocked",
   "OFFICIAL_APP_DOWNLOAD_SUCCESS_MESSAGE": "Your download link is prepared! You can now download the app",
-  "OFFICIAL_APP_DOWNLOAD_NOTICE": "Notice: Downloaded apps can be installed to your device in accordance with <a href=\"{{faqLink}}\">app installation method</a> that you chosen. If you manually install this app to your device instead of installation directly from {{brand}}, features that are provided by {{brand}} may not work",
+  "OFFICIAL_APP_DOWNLOAD_NOTICE": "Notice: Downloaded apps can be installed to your device in accordance with <a href=\"{{faqLink}}\">app installation method</a> that you chosen. If you manually install this app to your device instead of installation directly from {{brand}}, features that are provided by {{brand}} may not work.",
   "OFFICIAL_APP_DOWNLOAD_LEAVE_CONFIRMATION": "Are you sure you want to leave this page? Your download link will be lost"
 }
