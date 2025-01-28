@@ -743,7 +743,7 @@
   "STANDALONE_APP_NOTICE": "This developer uses {{brand}} marketplace to distribute this app. <a href=\"{{href}}\">Visit {{brand}} to discover more apps or install or download this one</a>",
   "EDIT": "Edit",
   "USE_DEFAULT": "Use default",
-  "IN_APP_PRODUCTS": "In-App products",
+  "PRODUCTS": "Products",
   "MY_BILLING": "My Billing",
   "TRANSACTIONS": "Transactions",
   "INVOICE": "Invoice",
@@ -758,5 +758,11 @@
   "TRANSACTION_REFUND_CONFIRMATION": "Are you sure you want to request a refund for this transaction?",
   "TRANSACTION_REFUNDED": "The transaction has been successfully refunded",
   "TRANSACTION_REFUND_FAILED": "The transaction could not be refunded. Please contact our support team for assistance",
-  "YES_REFUND": "Yes, refund"
+  "YES_REFUND": "Yes, refund",
+  "OFFICIAL_APP_DOWNLOAD_PAGE_TITLE": "Official app download",
+  "OFFICIAL_APP_DOWNLOAD_PENDING_HEADING": "Preparing installable app for downloading, please wait",
+  "OFFICIAL_APP_DOWNLOAD_PENDING_WARNING": "Please stay here till your download is ready",
+  "OFFICIAL_APP_DOWNLOAD_SUCCESS_MESSAGE": "Your download link is prepared! You can now download the app",
+  "OFFICIAL_APP_DOWNLOAD_NOTICE": "Notice: Downloaded apps can be installed to your device in accordance with <a href=\"{{faqLink}}\">app installation method</a> that you chosen. If you manually install this app to your device instead of installation directly from {{brand}}, features that are provided by {{brand}} may not work",
+  "OFFICIAL_APP_DOWNLOAD_LEAVE_CONFIRMATION": "Are you sure you want to leave this page? Your download link will be lost"
 }
