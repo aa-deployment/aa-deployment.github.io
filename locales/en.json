@@ -764,5 +764,8 @@
   "OFFICIAL_APP_DOWNLOAD_PENDING_WARNING": "Please stay here till your download is ready. Make sure that your device is online and unlocked",
   "OFFICIAL_APP_DOWNLOAD_SUCCESS_MESSAGE": "Your download link is prepared! You can now download the app",
   "OFFICIAL_APP_DOWNLOAD_NOTICE": "Notice: Downloaded apps can be installed to your device in accordance with <a href=\"{{faqLink}}\">app installation method</a> that you chosen. If you manually install this app to your device instead of installation directly from {{brand}}, features that are provided by {{brand}} may not work.",
-  "OFFICIAL_APP_DOWNLOAD_LEAVE_CONFIRMATION": "Are you sure you want to leave this page? Your download link will be lost"
+  "OFFICIAL_APP_DOWNLOAD_LEAVE_CONFIRMATION": "Are you sure you want to leave this page? Your download link will be lost",
+  "BUY_FOR_PRICE": "Buy for {{price}}",
+  "INSTALL_BRAND": "Install {{brand}}",
+  "PUBLISHER_AUTHORIZED_NOTIFICATION": "Publisher account was authorized"
 }
