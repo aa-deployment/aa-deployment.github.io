@@ -767,5 +767,9 @@
   "OFFICIAL_APP_DOWNLOAD_LEAVE_CONFIRMATION": "Are you sure you want to leave this page? Your download link will be lost",
   "BUY_FOR_PRICE": "Buy for {{price}}",
   "INSTALL_BRAND": "Install {{brand}}",
-  "PUBLISHER_AUTHORIZED_NOTIFICATION": "Publisher account was authorized"
+  "PUBLISHER_AUTHORIZED_NOTIFICATION": "Publisher account was authorized",
+  "REMOVING": "Removing...",
+  "UNLINK_DESCRIPTION": "You can unlink your device via profile removal from Settings app of your device <b>and then</b> tapping to this button, so we will delete all your information in 24h.",
+  "UNLINK_DEVICE_BUTTON_LABEL": "Unlink your device",
+  "UNLINK_DEVICE_CONFIRMATION": "Are you sure you want to unlink your device?"
 }
