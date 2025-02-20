@@ -771,5 +771,11 @@
   "REMOVING": "Removing...",
   "UNLINK_DESCRIPTION": "You can unlink your device via profile removal from Settings app of your device <b>and then</b> tapping to this button, so we will delete all your information in 24h.",
   "UNLINK_DEVICE_BUTTON_LABEL": "Unlink your device",
-  "UNLINK_DEVICE_CONFIRMATION": "Are you sure you want to unlink your device?"
+  "UNLINK_DEVICE_CONFIRMATION": "Are you sure you want to unlink your device?",
+  "APP_INSTALLATION_PAGE_TITLE": "App installation",
+  "APP_INSTALLATION_PAGE_LEAVE_CONFIRMATION": "Are you sure you want to leave this page? App installation will stop",
+  "APP_INSTALLATION_PAGE_HEADING": "Please wait till {{brand}} prepares this app for you",
+  "APP_INSTALLATION_PAGE_WARNING": "Please stay here till your app is ready",
+  "APP_INSTALLATION_PAGE_SUCCESS": "Your app is ready! You can install it now",
+  "TO_INSTALL_VISIT_FROM_DEVICE": "To install this app visit {{brand}} from your {{device}}"
 }
