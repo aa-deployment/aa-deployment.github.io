@@ -305,7 +305,7 @@
   "STATUS_API_DESC": "To obtain status of {{brand}} infrastructure from different endpoints, please refer to our <a href=\"{{statusLink}}\">Status page API</a >",
   "NO_DEVICE_LINKED_TO_APPDB": "No device is currently linked to {{brand}}",
   "DEVICES_LINKED_COUNT": "Devices linked: {{count}}",
-  "DEVICE_NAME": "Device Name: {{name}}",
+  "DEVICE_MODEL": "Device Model: {{model}}",
   "VIEW_DEVICES_PAGE": "View devices page",
   "OK_BUTTON": "OK",
   "ABOUT_APPDB_DESC": "<p><strong>appdb</strong> is an App Marketplace (Store, Platform) for Apple devices. With appdb, users can discover apps that are beyond Apple's walled ecosystem and enjoy real freedom on devices they own.</p>\n<p>Officially registered developers can use appdb to publish and distribute their apps without restrictions previously set by Apple.</p>\n<p>Users and Developers can enjoy APIs replacements that were made by appdb - driving markets and competition further with much less commissions, cheaper apps, in-app purchases and subscriptions.</p>\n<p>appdb is not affiliated with Apple and does not seek to undermine Apple's business practices. Users have the complete freedom to choose any software distribution system or marketplace they prefer.</p>\n<p>appdb is located in Europe and acts under the European Union Digital Market Act, which gives us permission to exist despite Apple's requirements for marketplaces.</p>\n<p>It is strongly recommended to use appdb with your own Apple Developer Account purchased directly from Apple.</p>\n<p>appdb prioritizes your privacy, security, and safety. Our systems, APIs, and services are designed with your well-being in mind, enabling us to serve millions of users for over a decade without any incidents related to user data.</p>\n<p>Join the bright side!</p>",
@@ -689,8 +689,8 @@
   "APPLE_TV_WAS_LINKED": "Your Apple TV was linked to {{brand}}",
   "INSTALLATION_HISTORY_DESC": "Here you can see installation history for all your devices and reinstall apps if necessary. For official apps, only the latest available version may be reinstalled",
   "MY_INSTALLATION_HISTORY": "My installation history",
-  "INSTALLED_TO_DEVICE": "Installed at {{ installedAt }} to your {{ deviceModel }} named {{ deviceName }}",
-  "INSTALLED_TO_DEVICE_ALONGSIDE": "Installed at {{ installedAt }} to your {{ deviceModel }} alongside with identifier {{ alongsideID }} named {{ deviceName }}",
+  "INSTALLED_TO_DEVICE": "Installed at {{ installedAt }} to your {{ deviceModel }}",
+  "INSTALLED_TO_DEVICE_ALONGSIDE": "Installed at {{ installedAt }} to your {{ deviceModel }} alongside with identifier {{ alongsideID }}",
   "VIEW_IN_STORE": "View in store",
   "REINSTALL": "Reinstall",
   "INSTALLATION_QUEUED": "Installation was queued",
@@ -777,5 +777,6 @@
   "APP_INSTALLATION_PAGE_HEADING": "Please wait till {{brand}} prepares this app for you",
   "APP_INSTALLATION_PAGE_WARNING": "Please stay here till your app is ready",
   "APP_INSTALLATION_PAGE_SUCCESS": "Your app is ready! You can install it now",
-  "TO_INSTALL_VISIT_FROM_DEVICE": "To install this app visit {{brand}} from your {{device}}"
+  "TO_INSTALL_VISIT_FROM_DEVICE": "To install this app visit {{brand}} from your {{device}}",
+  "OS_VERSION": "OS version"
 }
