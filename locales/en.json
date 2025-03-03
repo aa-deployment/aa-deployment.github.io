@@ -796,5 +796,6 @@
   "LINK_APPLE_SILICON_MAC_DESC": "To link your Apple Silicon Mac and install apps to it use <a href=\"{{href}}\">appdb tools</a>",
   "LINK_PC_DESC": "To link your PC and manage your apps libraries <a href=\"{{href}}\">click here</a>.",
   "LOADING": "Loading...",
-  "LINK_IDEVICE_PRIOR_TO_LINKING_TV": "To link your Apple TV, you need to link your any other Apple device first"
+  "LINK_IDEVICE_PRIOR_TO_LINKING_TV": "To link your Apple TV, you need to link your any other Apple device first",
+  "SWITCHING": "Switching"
 }
