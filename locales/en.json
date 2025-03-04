@@ -624,6 +624,8 @@
   "ADD_SCREENSHOTS": "Add screenshots",
   "PUBLIC": "Public",
   "USE_SIDELOADING_PATCH": "Use sideloading patch",
+  "USE_JIT_SUPPORT": "Enable JIT support",
+  "SUPPORTS_JIT": "Supports JIT",
   "USE_EXPLICIT_BUNDLE_ID": "Use explicit bundle ID",
   "USE_GROUP_PATCH": "Use group patch",
   "SHORT_DESCRIPTION": "Short description",
@@ -778,7 +780,7 @@
   "APP_INSTALLATION_PAGE_WARNING": "Please stay here till your app is ready",
   "APP_INSTALLATION_PAGE_SUCCESS": "Your app is ready! You can install it now",
   "TO_INSTALL_VISIT_FROM_DEVICE": "To install this app visit {{brand}} from your {{device}}",
-  "OS_VERSION": "OS version",
+  "OS_VERSION": "{{os}} version",
   "APPDB_TOOLS_PAGE_TITLE": "appdb tools",
   "APPDB_TOOLS_PAGE_META_DESCRIPTION": "appdb tools",
   "APPDB_TOOLS_PAGE_META_KEYWORDS": "appdb tools",
@@ -786,6 +788,7 @@
   "LINK_APPLE_SILICON_MAC": "Link your Apple Silicon Mac",
   "SWITCH_BACK": "Switch back",
   "CAN_BE_USED_ONLY_DIRECTLY": "Direct use only",
+  "CAN_BE_USED_ONLY_DIRECTLY_NOTICE": "You can use {{brand}} only from this device directly. You can not control it via your other devices",
   "LINK_MAC_VIA_HELPER_NOTICE": "Please use appdb tools",
   "LINK_MAC_VIA_HELPER_DESCRIPTION": "You can link your Apple Silicon Mac to via appdb tools. Please download it <a href=\"/appdb-tools\">here</a> to link your Mac",
   "PC_LINK_AUTHORIZED": "Your computer should be able to manage your app libraries or queue app installations to your Apple TV",
@@ -797,5 +800,7 @@
   "LINK_PC_DESC": "To link your PC and manage your apps libraries <a href=\"{{href}}\">click here</a>.",
   "LOADING": "Loading...",
   "LINK_IDEVICE_PRIOR_TO_LINKING_TV": "To link your Apple TV, you need to link your any other Apple device first",
-  "SWITCHING": "Switching"
+  "SWITCHING": "Switching",
+  "MOBILE_DEVICE_PAIRING_FILE": "Mobile device pairing file, required for JIT or free installations",
+  "CLEAR_PAIRING_FILE": "Clear pairing file"
 }
