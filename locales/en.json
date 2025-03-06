@@ -839,5 +839,7 @@
   "UNEXPECTED_ERROR_OCCURRED": "An unexpected error occurred",
   "CONFIRM_APP_INSTALLED": "Have app installed to your device and opens?",
   "FAILED_START_JIT_SESSION": "Failed to start JIT session",
-  "ENABLE_JIT_BUTTON": "Enable JIT"
+  "ENABLE_JIT_BUTTON": "Enable JIT",
+  "LINK_DEVICE_BUTTON": "Link device",
+  "LINK_DEVICE_BACKUP_OPTION": "If your device is not able to scan QR code, please enter email that you used to link your device to appdb"
 }
