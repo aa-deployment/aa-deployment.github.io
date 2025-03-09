@@ -300,8 +300,8 @@
     "js/chunk-f9587a46.eea32667.js.map",
     "js/chunk-vendors.5e3fbd55.js",
     "js/chunk-vendors.5e3fbd55.js.map",
-    "js/main.cc122d9f.js",
-    "js/main.cc122d9f.js.map",
+    "js/main.d7d601e7.js",
+    "js/main.d7d601e7.js.map",
     "locales/ar.json",
     "locales/de.json",
     "locales/el.json",
@@ -334,7 +334,7 @@
     "css/chunk-vendors.357b5c2e.css",
     "js/chunk-vendors.5e3fbd55.js",
     "css/main.eb2e7c62.css",
-    "js/main.cc122d9f.js"
+    "js/main.d7d601e7.js"
   ],
   "async": [
     "css/chunk-001ed6e2.2013c9d2.css",
