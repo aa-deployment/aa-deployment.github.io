@@ -898,7 +898,7 @@
   "FREE_ENTERPRISE_SIDELOADING_PRICE": "Free",
   "USED_NOW": "used now",
   "FREE_ENTERPRISE_SIDELOADING_BENEFITS": "No PC required",
-  "SIDELOADING_NOTICE": "To install apps from appdb, you need to configure an app installation method. It can be <a href=\"#official\">Your own developer account</a>, <a href=\"#p2p\">P2P-shared developer account</a>, <a href=\"#free-apple\">Free Apple Account</a>, <a href=\"#3rdparty\">3rd party certificate</a> or <a href=\"#enterprise\">Shared enterprise certificate</a>. If you are changing from one method to another, you need to remove and install your apps again. You can do it from <a href=\"{{href}}\">Installation history</a>.<br/>Scroll down to see comparison of all methods.",
+  "SIDELOADING_NOTICE": "To install apps from appdb, you need to configure an app installation method. It can be <a href=\"#official\">Your own developer account</a>, <a href=\"#p2p\">P2P-shared developer account</a>, <a href=\"#free_apple\">Free Apple Account</a>, <a href=\"#3rdparty\">3rd party certificate</a> or <a href=\"#enterprise\">Shared enterprise certificate</a>. If you are changing from one method to another, you need to remove and install your apps again. You can do it from <a href=\"{{href}}\">Installation history</a>.<br/>Scroll down to see comparison of all methods.",
   "FREE_ENTERPRISE_SIDELOADING_DISADVANTAGES": "Apps stop to work after few days, JIT is not supported, frequent app reinstallation is required",
   "LINK_DEVICE_BACKUP_OPTION": "If your device is not able to scan QR code, please enter email that you used to link your device to appdb",
   "P2P_PURCHASE_DISCUSSION": "P2P purchase discussion",
