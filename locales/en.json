@@ -924,7 +924,7 @@
   "REPORT": "Report",
   "SETTING": "Setting...",
   "SET_AS_READ": "Set as read",
-  "SHOW_REPLIES": "Show {count} {reply}",
+  "SHOW_REPLIES": "Show {{count}} {{reply}}",
   "REPLY": "Reply",
   "REPLIES": "replies",
   "LOAD_MORE_REPLIES": "Load more replies",
