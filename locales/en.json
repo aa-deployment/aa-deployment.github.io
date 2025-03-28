@@ -280,6 +280,7 @@
   "ENABLE_JIT": "JIT provisioning",
   "WAITING_FOR_CONNECTION": "Waiting for connection",
   "READY_FOR_DEPLOYMENT": "Ready for installation",
+  "WAITING_IN_QUEUE": "Waiting in queue",
   "ENABLING_JIT": "Enabling JIT",
   "VALIDATING_INSTALLED_APPS": "Validating installed apps",
   "MOUNTING_DEV_IMAGE": "Mounting developer image",
