@@ -885,6 +885,7 @@
   "ENABLE_JIT_BUTTON": "Enable JIT",
   "LINK_DEVICE_BUTTON": "Link device",
   "BENEFITS": "Benefits",
+  "BEST_EFFORT_NOTICE": "This is provided on best effort basis, we do not guarantee that it will work for all apps and devices, as we beleive that sideloading needs to be unrestricted",
   "OFFICIAL_SIDELOADING_PRICE": "8.16 EUR per month for all your devices, billed annually, paid to Apple, not to us",
   "OFFICIAL_SIDELOADING_BENEFITS": "Supports unlimited amount of apps, no PC required, supports JIT",
   "OFFICIAL_SIDELOADING_DISADVANTAGES": "None",
