@@ -440,6 +440,7 @@
   "PLUS_ACCOUNT_CONFIGURED": "Your Apple Developer account was configured",
   "ENTER_OTP": "Enter code that was sent to your device. If your developer account is not your primary Apple account, open Settings-Contacts-Accounts and add your developer account, so you will be able to receive one-time codes to your device",
   "STATUS": "Status",
+  "PREMIUM_ALREADY_ACTIVE": "You are using {{brand}} PREMIUM already, you don't need to configure anything else",
   "RECONFIGURE": "Reconfigure",
   "ENTER_OTP_SHORT": "Enter code",
   "FREE_ACCOUNT_CONFIGURED": "Free Apple Developer account was configured successfully",
