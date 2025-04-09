@@ -889,7 +889,7 @@
   "LINK_DEVICE_BUTTON": "Link device",
   "BENEFITS": "Benefits",
   "YOU_ALREADY_HAVE_PREMIUM": "You already have PREMIUM for this device. You can manage your subscription on <a href=\"{{subscriptionsLink}}\">my billing page</a>",
-  "PREMIUM_FEATURES_DESC": "<p>{{brand}} PREMIUM provides all the benefits of PLUS with additional features like dedicated fast servers and no configuration required for app installation. PREMIM is distributed per device and it is not transferable between devices. All sales are final, unless service is proven defective via creation of a ticket in <a href=\"https://aysa-support.freshdesk.com\">helpdesk</a>.</p>",
+  "PREMIUM_FEATURES_DESC": "<p>{{brand}} PREMIUM provides all the benefits of PLUS with additional features like dedicated fast servers and no configuration required for app installation. PREMIM is distributed per device and it is not transferable between devices. Activation may take up to 33 days. All sales are final, unless service is proven defective via creation of a ticket in <a href=\"https://aysa-support.freshdesk.com\">helpdesk</a>.</p>",
   "DEDICATED_FAST_SERVERS": "Dedicated infrastructure",
   "NO_CONFIGURATION_IS_REQUIRED": "No configuration of app installation method is required",
   "BEST_EFFORT_NOTICE": "This is provided on best effort basis, we do not guarantee that it will work for all apps and devices, as we beleive that sideloading needs to be unrestricted",
