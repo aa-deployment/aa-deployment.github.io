@@ -501,7 +501,7 @@
   "ENROLL_IN_APPLE_DEVELOPER_APP": "Buy/Enroll in Apple Developer App",
   "PLUS_STEP_1": "Pay Apple, Inc - <a href=\"{{href}}\">Purchase Developer Membership</a>",
   "PLUS_STEP_2": "<a href=\"{{href}}\">Link your Apple account</a> to {{brand}}",
-  "PLUS_STEP_3": "<a href=\"{{href}}\">Get reimbursement</a> automatically within a year",
+  "PLUS_STEP_3": "<a href=\"{{href}}\">Get reimbursement</a> automatically",
   "BUY_PLUS_TITLE": "{{brand}} PLUS - install apps to non-jailbroken devices without limits",
   "PLUS_DOWNLOAD_APP": "- <a href=\"{{href}}\" target=\"_blank\">Download Apple Developer App</a><br/>\n- Login with your Apple account<br/>\n- Tap \"Enroll now\" and purchase Apple Membership as Individual<br/>\n- Wait for activation emails<br/>\n- Proceed to next step<br/>\n<br/>\n<em>One account can be used for all your current and future devices and can be securely shared with your family or friends. <strong>You can reimburse price of this account by using <a href=\"/my/auto-reimbursement\">Auto-Reimbursement</a>.</strong></em>",
   "UPGRADE_MY_APPSTORE_STORAGE": "upgrade storage via <a href=\"{{href}}\">{{brand}} PLUS</a>",
