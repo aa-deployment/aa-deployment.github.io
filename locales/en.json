@@ -998,7 +998,7 @@
   "BACK_TO_SUPPORT_TICKETS": "Back to Support Tickets",
   "CREATED": "Created",
   "SUPPORT_TICKET": "Support Ticket",
-  "SUPPORT_TICKET_WITH_ID": "Support Ticket #{id} - {topic}",
+  "SUPPORT_TICKET_WITH_ID": "Support Ticket #{{id}} - {{topic}}",
   "SUPPORT_TICKET_META_DESCRIPTION": "View and respond to support ticket discussions",
   "TICKET_NOT_FOUND": "Ticket not found",
   "FAILED_TO_LOAD_TICKET_DETAILS": "Failed to load ticket details"
