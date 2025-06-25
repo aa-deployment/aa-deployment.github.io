@@ -882,6 +882,7 @@
   "ENABLE_JIT_INTRO": "Enabling free app installations and enabling JIT (Just In Time compilation) gives significant boost of performance in Emulators, Games and other Virtualization apps. This feature is supported for mobile devices, running iOS/iPadOS 17.6 or newer.",
   "ENABLE_JIT_STEP_1": "Pair your device via computer and <a href=\"{{href_jitpair}}\">appdb JIT (mobile device) Pair</a> or attach *.mobiledevicepairing manually at <a href=\"{{href_configure}}\">device features configuration page</a>. You need to do it once",
   "ENABLE_JIT_STEP_2": "Install <a href=\"{{href}}\" target=\"_blank\">StikDebug-appdb</a>, and press there \"Import from appdb\" button to import pairing file. Then use this app to enable JIT for selected apps",
+  "CONFIGURE_FREE_ACCOUNT_STEP_2": "Install <a href=\"{{href}}\">connect to appdb Shortcut</a>. It will be activated automatically on demand",
   "META_ENABLE_JIT_TITLE": "Enable free app installations and JIT Compilation",
   "META_ENABLE_JIT_DESCRIPTION": "Learn how to enable free app installations and Just-In-Time compilation for significantly improved performance in emulators, games, and virtualization apps on your iOS device.",
   "META_ENABLE_JIT_KEYWORDS": "JIT compilation, iOS JIT, emulator performance, enable JIT, appdb JIT (mobile device) pair, iOS virtualization",
