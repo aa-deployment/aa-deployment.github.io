@@ -854,7 +854,7 @@
     "ENABLE_JIT_DESCRIPTION": "Улучшите производительность эмуляторов и игр с JIT",
     "ENABLE_JIT_INTRO": "JIT ускоряет эмуляторы и игры. Доступно на iOS/iPadOS 17.6+",
     "ENABLE_JIT_STEP_1": "Свяжите устройство через <a href=\"{{href_jitpair}}\">appdb JIT Pair</a>",
-    "ENABLE_JIT_STEP_2": "Установите <a href=\"{{href}}\" target=\"_blank\">сценарий appdb</a>",
+    "ENABLE_JIT_STEP_2": "Установите <a href=\"{{href}}\" target=\"_blank\">StikDebug-appdb</a>, и нажмите на кнопку \"Импорт из appdb\" для импорта файла сопряжения. Затем используйте это приложение для включения JIT для выбранных приложений",
     "META_ENABLE_JIT_TITLE": "Включить JIT",
     "META_ENABLE_JIT_DESCRIPTION": "Ускорьте эмуляторы и игры с JIT",
     "META_ENABLE_JIT_KEYWORDS": "JIT, iOS, эмуляторы",
