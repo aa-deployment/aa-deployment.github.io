@@ -1,4 +1,5 @@
 {
+  "ACTIVE_APPS_NOTICE": "Please choose app to replace by tapping on app name or choose one or more apps that you are not using by taping on \"Not using\", this list is scrollable",
   "MANAGE_SUBSCRIPTION": "Manage Subscription",
   "JIT_MODAL_FALLBACK_INSTRUCTION": "Tap \"enable JIT\" button below if you were not redirected automatically",
   "JIT_MODAL_INSTRUCTION": "Please enable JIT in <a href=\"{{href}}\">StikDebug-appdb</a>",
