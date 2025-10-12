@@ -1,6 +1,7 @@
 {
   "PRESERVE_APPLE_BUNDLE_IDS": "Preserve Apple's bundle IDs (reduces compatibility)",
-  "ACTIVE_APPS_NOTICE": "In order to continue to installation, please mark one more more apps that you are not using anymore.",
+  "ACTIVE_APPS_NOTICE_FOOTER": "iOS 26+ does not report removed apps, so you need to mark them manually.",
+  "ACTIVE_APPS_NOTICE": "In order to continue to installation, please mark one or more apps that you are not using anymore.",
   "MANAGE_SUBSCRIPTION": "Manage Subscription",
   "JIT_MODAL_FALLBACK_INSTRUCTION": "Tap \"enable JIT\" button below if you were not redirected automatically",
   "JIT_MODAL_INSTRUCTION": "Please enable JIT in <a href=\"{{href}}\">StikDebug-appdb</a>",
