@@ -852,7 +852,6 @@
   "TO_INSTALL_VISIT_FROM_DEVICE": "To install this app, please visit {{brand}} from your {{device}}",
   "TO_ENABLE_JIT_VISIT_FROM_DEVICE": "To enable JIT, please visit {{brand}} from your {{device}}",
   "TO_CONFIGURE_FREE_ACCOUNT_VISIT_FROM_DEVICE": "To configure free Apple Developer account, please visit {{brand}} from your {{device}}",
-  "OS_VERSION": "{{os}} version",
   "APPDB_TOOLS_PAGE_TITLE": "appdb tools",
   "APPDB_TOOLS_PAGE_META_DESCRIPTION": "appdb tools",
   "APPDB_TOOLS_PAGE_META_KEYWORDS": "appdb tools",
@@ -1008,5 +1007,9 @@
   "SUPPORT_TICKET_WITH_ID": "Support Ticket #{{id}} - {{topic}}",
   "SUPPORT_TICKET_META_DESCRIPTION": "View and respond to support ticket discussions",
   "TICKET_NOT_FOUND": "Ticket not found",
-  "FAILED_TO_LOAD_TICKET_DETAILS": "Failed to load ticket details"
+  "FAILED_TO_LOAD_TICKET_DETAILS": "Failed to load ticket details",
+  "I_HAVE_READ_TROUBLESHOOTING_MANUAL": "I have read, understood and tried to resolve my problem by reading",
+  "TROUBLESHOOTING_MANUAL": "Troubleshooting Manual",
+  "WHEN_WAS_TROUBLESHOOTING_MANUAL_UPDATED": "When was troubleshooting manual last updated?",
+  "TROUBLESHOOTING_MANUAL_VALIDATION_ERROR": "You need to confirm that you read troubleshooting manual and when it was last updated in order to submit a ticket. Please read it."
 }
