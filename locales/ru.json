@@ -896,7 +896,6 @@
     "FREE_ENTERPRISE_SIDELOADING_PRICE": "Бесплатно",
     "USED_NOW": "используется",
     "FREE_ENTERPRISE_SIDELOADING_BENEFITS": "Без ПК",
-    "SIDELOADING_NOTICE": "Выберите метод установки. При смене метода переустановите приложения из <a href=\"{{href}}\">истории</a>",
     "FREE_ENTERPRISE_SIDELOADING_DISADVANTAGES": "Приложения перестают работать, JIT недоступен",
     "LINK_DEVICE_BACKUP_OPTION": "Введите email, использованный для привязки",
     "P2P_PURCHASE_DISCUSSION": "Обсуждение покупки",
