@@ -654,5 +654,6 @@
     "COMPATIBILITY_UNKNOWN_1": "? Compatibiliteit onbekend",
     "GO_BACK": "\"Teruggaan\"",
     "SUBSCRIPTION_CANCEL_CONFIRMATION": "\"Wil je zeker weten dat je je PLUS-abonnement wilt annuleren?\"",
-    "APP_INSTALLATIONS": "App installatie"
+    "APP_INSTALLATIONS": "App installatie",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "Ga voor ondersteuning naar appdb vanaf uw gekoppelde apparaat of koppel een apparaat met uw e-mailadres."
 }

@@ -753,5 +753,6 @@
     "YES_CANCEL": "네, 취소합니다",
     "PAYMENT_METHODS": "결제 방법",
     "CLOSE": "닫기",
-    "3RD_PARTY_SIDELOADING_PROGRAM": "인증서를 판매하는 중이고 여기에 웹사이트를 등록하려면 <a href=\"{{href}}\">{{brand}} + 인증서</a> 프로그램에 가입하세요"
+    "3RD_PARTY_SIDELOADING_PROGRAM": "인증서를 판매하는 중이고 여기에 웹사이트를 등록하려면 <a href=\"{{href}}\">{{brand}} + 인증서</a> 프로그램에 가입하세요",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "지원을 받으려면 연결된 기기에서 appdb를 방문하거나 이메일로 기기를 연결하세요."
 }

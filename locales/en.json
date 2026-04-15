@@ -988,6 +988,7 @@
   "FAILED_TO_UPLOAD_IMAGE_EMPTY_RESPONSE": "Failed to upload image: Empty response",
   "FAILED_TO_UPLOAD_PASTED_IMAGE": "Failed to upload pasted image: ",
   "SUPPORT_TICKETS": "Support Tickets",
+  "SUPPORT_REQUIRES_LINKED_DEVICE": "In order to receive support, visit appdb from your linked device or link a device with usage of your email",
   "CREATE_SUPPORT_TICKET": "Create Support Ticket",
   "NO_SUPPORT_TICKETS": "You have no support tickets.",
   "ID": "ID",

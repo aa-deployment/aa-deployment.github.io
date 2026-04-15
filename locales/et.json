@@ -654,5 +654,6 @@
     "COMPATIBILITY_UNKNOWN_1": "? Ühilduvus teadmata",
     "GO_BACK": "Mine tagasi",
     "APP_INSTALLATIONS": "Rakenduse installimine",
-    "SUBSCRIPTION_CANCEL_CONFIRMATION": "Kas olete kindel, et soovite tühistada PLUS tellimuse?"
+    "SUBSCRIPTION_CANCEL_CONFIRMATION": "Kas olete kindel, et soovite tühistada PLUS tellimuse?",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "Tuge saamiseks külasta appdb’t lingitud seadmelt või seo seade oma e-posti abil."
 }

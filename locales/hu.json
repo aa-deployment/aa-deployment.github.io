@@ -19,5 +19,6 @@
     "COMPATIBILITY_UNKNOWN": "? Kompatibilitás ismeretlen",
     "ARCHIVED_SUMMARY": "Ez az oldal csak az archivált linkeket menti. Lehet, hogy néhányan már nem is létezik…",
     "TWEAKED_VERSION_NOTICE_TITLE": "Értesítés a módosított verzióról",
-    "COMPATIBILITY_UNKNOWN_1": "? Kompatibilitás ismeretlen"
+    "COMPATIBILITY_UNKNOWN_1": "? Kompatibilitás ismeretlen",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "Támogatásért látogasd az appdb-t a kapcsolt eszközödről, vagy kapcsolj eszközt az e-mail címed használatával."
 }

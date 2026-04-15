@@ -127,5 +127,6 @@
     "FIX": "Arreglar",
     "DEVICE_NAME": "Nombre del dispositivo",
     "DESIRED_DEVICE_NAME": "Introduce el nombre del dispositivo",
-    "PRIVATE_LINK_NOTICE": "Este es un enlace privado, solo estará disponible para tus dispositivos vinculados bajo el mismo correo electrónico"
+    "PRIVATE_LINK_NOTICE": "Este es un enlace privado, solo estará disponible para tus dispositivos vinculados bajo el mismo correo electrónico",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "Para recibir soporte, visita appdb desde tu dispositivo vinculado o vincula un dispositivo usando tu correo electrónico."
 }

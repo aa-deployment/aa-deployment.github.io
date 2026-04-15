@@ -941,5 +941,6 @@
     "UNSUPPORTED_IMAGE_FORMAT": "Неподдерживаемый формат",
     "IMAGE_UPLOADED_SUCCESSFULLY": "Изображение загружено",
     "FAILED_TO_UPLOAD_IMAGE_EMPTY_RESPONSE": "Пустой ответ",
-    "FAILED_TO_UPLOAD_PASTED_IMAGE": "Ошибка вставки изображения"
+    "FAILED_TO_UPLOAD_PASTED_IMAGE": "Ошибка вставки изображения",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "Чтобы получить поддержку, откройте appdb с привязанного устройства или привяжите устройство, используя вашу электронную почту."
 }

@@ -654,5 +654,6 @@
     "COMPATIBILITY_UNKNOWN_1": "? Συμβατότητα άγνωστη",
     "GO_BACK": "Πήγαινε πίσω",
     "APP_INSTALLATIONS": "Εγκατάσταση εφαρμογής",
-    "SUBSCRIPTION_CANCEL_CONFIRMATION": "Are you sure you want to cancel PLUS subscription?"
+    "SUBSCRIPTION_CANCEL_CONFIRMATION": "Are you sure you want to cancel PLUS subscription?",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "Για υποστήριξη, επισκεφτείτε το appdb από τη συνδεδεμένη συσκευή σας ή συνδέστε μια συσκευή χρησιμοποιώντας το email σας."
 }

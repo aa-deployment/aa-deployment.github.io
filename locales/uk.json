@@ -650,5 +650,6 @@
     "COMPATIBILITY_UNKNOWN_1": "? Сумісність невідома",
     "GO_BACK": "Повернутися",
     "SUBSCRIPTION_CANCEL_CONFIRMATION": "Ви впевнені, що хочете скасувати підписку PLUS?",
-    "APP_INSTALLATIONS": "Встановлення додатку"
+    "APP_INSTALLATIONS": "Встановлення додатку",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "Щоб отримати підтримку, відкрийте appdb з прив’язаного пристрою або прив’яжіть пристрій, використовуючи вашу електронну пошту."
 }

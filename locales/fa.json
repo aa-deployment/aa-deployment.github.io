@@ -654,5 +654,6 @@
     "COMPATIBILITY_UNKNOWN_1": "? سازگاری ناشناخته",
     "GO_BACK": "برگشت",
     "APP_INSTALLATIONS": "نصب برنامه",
-    "SUBSCRIPTION_CANCEL_CONFIRMATION": "آیا اطمینان دارید که میخواهید اشتراک پلاس را لغو کنید؟"
+    "SUBSCRIPTION_CANCEL_CONFIRMATION": "آیا اطمینان دارید که میخواهید اشتراک پلاس را لغو کنید؟",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "برای دریافت پشتیبانی، از دستگاه متصل‌شده به appdb سر بزنید یا با ایمیل خود دستگاهی را متصل کنید."
 }

@@ -658,5 +658,6 @@
     "COMPATIBILITY_UNKNOWN_1": "؟التوافق غير معروف",
     "GO_BACK": "\"عد للخلف\"",
     "APP_INSTALLATIONS": "تثبيت التطبيق",
-    "SUBSCRIPTION_CANCEL_CONFIRMATION": "هل أنت متأكد من رغبتك في إلغاء اشتراك البلس؟"
+    "SUBSCRIPTION_CANCEL_CONFIRMATION": "هل أنت متأكد من رغبتك في إلغاء اشتراك البلس؟",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "لتلقي الدعم، افتح appdb من جهازك المرتبط أو اربط جهازًا باستخدام بريدك الإلكتروني."
 }

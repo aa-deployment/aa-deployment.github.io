@@ -672,5 +672,6 @@
     "SHARE_LINK_COPIED": "URL已复制到剪贴板",
     "IMPORT": "导入",
     "APP_IMPORT_TO_LIBRARY_SUCCESS": "App已经导入到 您的仓库",
-    "DEVICE": "设备"
+    "DEVICE": "设备",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "如需获得支持，请从已关联的设备访问 appdb，或使用您的电子邮件关联设备。"
 }

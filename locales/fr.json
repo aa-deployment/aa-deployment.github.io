@@ -655,5 +655,6 @@
     "COMPATIBILITY_UNKNOWN_1": "\"? Compatibilité inconnue\"",
     "GO_BACK": "\"Revenir en arrière\"",
     "APP_INSTALLATIONS": "\"Installation de l'application\"",
-    "SUBSCRIPTION_CANCEL_CONFIRMATION": "\"Êtes-vous sûr de vouloir annuler votre abonnement PLUS ?\""
+    "SUBSCRIPTION_CANCEL_CONFIRMATION": "\"Êtes-vous sûr de vouloir annuler votre abonnement PLUS ?\"",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "Pour obtenir de l'aide, ouvrez appdb depuis votre appareil lié ou liez un appareil en utilisant votre adresse e-mail."
 }

@@ -700,5 +700,6 @@
     "COPY": "Sao chép",
     "GO_BACK": "Quay lại",
     "APP_INSTALLATIONS": "Cài đặt ứng dụng",
-    "SUBSCRIPTION_CANCEL_CONFIRMATION": "Bạn có chắc muốn hủy đăng ký gói PLUS không?"
+    "SUBSCRIPTION_CANCEL_CONFIRMATION": "Bạn có chắc muốn hủy đăng ký gói PLUS không?",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "Để được hỗ trợ, hãy truy cập appdb từ thiết bị đã liên kết hoặc liên kết thiết bị bằng email của bạn."
 }

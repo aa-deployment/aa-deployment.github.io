@@ -653,5 +653,6 @@
     "COMPATIBILITY_UNKNOWN_1": "互換性は不明です。",
     "GO_BACK": "戻る",
     "APP_INSTALLATIONS": "アプリのインストール",
-    "SUBSCRIPTION_CANCEL_CONFIRMATION": "「プラスの定期購読をキャンセルしてもよろしいですか？」"
+    "SUBSCRIPTION_CANCEL_CONFIRMATION": "「プラスの定期購読をキャンセルしてもよろしいですか？」",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "サポートを受けるには、リンク済みのデバイスから appdb を開くか、メールを使ってデバイスをリンクしてください。"
 }

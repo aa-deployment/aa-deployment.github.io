@@ -667,5 +667,6 @@
     "ADD_SCREENSHOTS": "Bildschirmfotos hinzufügen",
     "USE_GROUP_PATCH": "Group Patch verwenden",
     "REQUIRES_MIN_OS_VERSION": "Erfordert {{os}} oder neuer",
-    "SHORT_DESCRIPTION": "Kurze Beschreibung"
+    "SHORT_DESCRIPTION": "Kurze Beschreibung",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "Um Support zu erhalten, besuchen Sie appdb von Ihrem verknüpften Gerät aus oder verknüpfen Sie ein Gerät mithilfe Ihrer E-Mail-Adresse."
 }

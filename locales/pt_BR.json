@@ -655,5 +655,6 @@
     "COMPATIBILITY_UNKNOWN_1": "? Compatibilidade desconhecida",
     "GO_BACK": "\"Voltar\"",
     "SUBSCRIPTION_CANCEL_CONFIRMATION": "\"Você tem certeza de que deseja cancelar a assinatura PLUS?\"",
-    "APP_INSTALLATIONS": "Instalação do aplicativo"
+    "APP_INSTALLATIONS": "Instalação do aplicativo",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "Para receber suporte, acesse o appdb pelo dispositivo vinculado ou vincule um dispositivo usando seu e-mail."
 }

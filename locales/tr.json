@@ -649,5 +649,6 @@
     "COMPATIBILITY_UNKNOWN_1": "? Uyumluluk bilinmiyor",
     "GO_BACK": "\"Geri dön\"",
     "SUBSCRIPTION_CANCEL_CONFIRMATION": "\"PLUS aboneliğini iptal etmek istediğinize emin misiniz?\"",
-    "APP_INSTALLATIONS": "Uygulama Kurulumu"
+    "APP_INSTALLATIONS": "Uygulama Kurulumu",
+    "SUPPORT_REQUIRES_LINKED_DEVICE": "Destek almak için bağlı cihazınızdan appdb’yi ziyaret edin veya e-postanızı kullanarak bir cihaz bağlayın."
 }
