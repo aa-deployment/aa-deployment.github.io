@@ -618,7 +618,7 @@
     "3RD_PARTY_CERT_LINKED_TITLE": "证书已成功为您的设备配置完成。",
     "3RD_PARTY_CERT_LINKED_BODY": "第三方证书已成功配置。您现在可以从{{brand}}安装应用程序。您可以继续<a href=\"/my/configure\">设备功能配置页面</a>，或直接进行应用程序安装。",
     "ERROR_REPO_BUNDLE_ID_IS_MISSING": "应用程序的Bundle标识符丢失。请询问存储库所有者修复其JSON元数据文件。",
-    "DO_NOT_USE_ICLOUD_APPLE_EMAILS": "请勿使用由苹果提供的电子邮件地址，比如@icloud.com、@me.com、@mac.com或类似的地址。请使用自己的电子邮件地址，该地址未经苹果注册。",
+    "DO_NOT_USE_HOSTILE_EMAILS": "请勿使用由苹果提供的电子邮件地址，比如@icloud.com、@me.com、@mac.com或类似的地址。请使用自己的电子邮件地址，该地址未经苹果注册。",
     "CHANGE_EMAIL": "更改电邮",
     "CHANGE_EMAIL_PAGE_DESC": "如果你想更改电子邮件，你可以在这里进行操作。如果在您的新电子邮件下有其他设备链接：\n<br/><br/>\n<ul>\n<li>您可以管理所有链接至一个电子邮件的设备</li>\n<li><a href=\"/my/store\">IPA图书馆</a>将被合并</li>\n<li><a href=\"/my/tweaks\">Tweaks图书馆</a>将被合并</li>\n<li><a href=\"/my/repos\">存储库</a>将被合并</li>\n</ul>\n<br/>\n所有其他功能，如<a href=\"/my/plus\">{{brand}} PLUS</a>、附加的开发者帐户或证书、P2P购买或<a href=\"/my/ipa-cache\">IPA缓存</a>将保持完整，并转移到您的新电子邮件地址。\n\n如果您的朋友或亲戚与您共享他们的Apple开发者帐户，请要求他们从<a href=\"/my/plus\">PLUS状态页面</a>的共享列表中移除您的旧电子邮件并添加您的新电子邮件。",
     "BEGIN_TO_CHANGE": "开始更改",

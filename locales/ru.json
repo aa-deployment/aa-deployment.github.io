@@ -629,7 +629,7 @@
     "3RD_PARTY_CERT_LINKED_TITLE": "Сертификат третьей стороны настроен",
     "3RD_PARTY_CERT_LINKED_BODY": "Теперь вы можете устанавливать приложения через {{brand}}",
     "ERROR_REPO_BUNDLE_ID_IS_MISSING": "Отсутствует Bundle ID. Сообщите владельцу репозитория",
-    "DO_NOT_USE_ICLOUD_APPLE_EMAILS": "Не используйте @icloud.com, @me.com и т.д. Укажите сторонний email",
+    "DO_NOT_USE_HOSTILE_EMAILS": "Не используйте @icloud.com, @me.com и т.д. Укажите сторонний email",
     "CHANGE_EMAIL": "Изменить email",
     "CHANGE_EMAIL_PAGE_DESC": "Смена email объединит данные устройств, библиотеки и репозитории. Аккаунты разработчика останутся прежними",
     "BEGIN_TO_CHANGE": "Начать смену",

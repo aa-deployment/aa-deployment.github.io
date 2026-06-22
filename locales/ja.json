@@ -623,7 +623,7 @@
     "3RD_PARTY_CERT_LINKED_TITLE": "デバイスは正常にサードパーティからの証明書が設定されました。",
     "3RD_PARTY_CERT_LINKED_BODY": "第三者からの証明書の設定が正常に完了しました。{{brand}}からアプリをインストールすることができます。 <a href=\"/my/configure\">デバイス機能の設定ページ</a> に続行するか、アプリのインストールに直進することができます。",
     "ERROR_REPO_BUNDLE_ID_IS_MISSING": "アプリのバンドル識別子が見つかりません。リポジトリの所有者にJSONメタデータファイルの修正を依頼してください。",
-    "DO_NOT_USE_ICLOUD_APPLE_EMAILS": "Apple の提供するメール (@icloud.com、@me.com、@mac.com など) は使用しないでください。Apple によって登録されていない、独自のメールアドレスを使用してください。",
+    "DO_NOT_USE_HOSTILE_EMAILS": "Apple の提供するメール (@icloud.com、@me.com、@mac.com など) は使用しないでください。Apple によって登録されていない、独自のメールアドレスを使用してください。",
     "CHANGE_EMAIL": "メールアドレスを変更",
     "CHANGE_EMAIL_PAGE_DESC": "メールを変更したい場合は、こちらで行うことができます。新しいメールアドレスでリンクされている他のデバイスがある場合は、次のような手順を踏んでください：\n<br/><br/>\n<ul>\n<li>1つのメールアドレスの下にリンクされたすべてのデバイスを管理できます</li>\n<li><a href=\"/my/store\">IPAライブラリ</a>が統合されます</li>\n<li><a href=\"/my/tweaks\">Tweaksライブラリ</a>が統合されます</li>\n<li><a href=\"/my/repos\">リポジトリ</a>が統合されます</li>\n</ul>\n<br/>\n<a href=\"/my/plus\">{{brand}} PLUS</a>や開発者アカウント、証明書、P2P購入、<a href=\"/my/ipa-cache\">IPAキャッシュ</a>など、他のすべての機能はそのまま保持され、新しいメールアドレスに移行されます。\n\n友人や親族があなたとApple開発者アカウントを共有している場合は、古いメールアドレスを<a href=\"/my/plus\">PLUSステータスページ</a>の共有リストから削除し、新しいメールアドレスを追加するようにお願いする必要があります。",
     "BEGIN_TO_CHANGE": "変更を開始",
